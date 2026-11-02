@@ -1,0 +1,7 @@
+{
+  "name": "VRComfortStudy.Editor",
+  "rootNamespace": "VRComfortStudy.Editor",
+  "references": ["VRComfortStudy.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

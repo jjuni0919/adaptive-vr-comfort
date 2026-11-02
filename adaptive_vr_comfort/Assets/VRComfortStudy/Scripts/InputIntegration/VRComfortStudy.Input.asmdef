@@ -1,0 +1,10 @@
+{
+  "name": "VRComfortStudy.Input",
+  "rootNamespace": "VRComfortStudy",
+  "references": ["VRComfortStudy.Runtime", "Unity.InputSystem"],
+  "defineConstraints": ["VR_COMFORT_INPUT"],
+  "versionDefines": [
+    { "name": "com.unity.inputsystem", "expression": "[1.0.0,2.0.0)", "define": "VR_COMFORT_INPUT" }
+  ],
+  "autoReferenced": true
+}
